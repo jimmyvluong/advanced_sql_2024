@@ -1,0 +1,1 @@
+[Week 1 Project](https://github.com/jimmyvluong/advanced_sql_2024/tree/main/Week%201)
